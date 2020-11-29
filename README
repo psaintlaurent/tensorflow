@@ -1,0 +1,5 @@
+This repository is composed of modified examples from the Tensorflow tutorials I'm using to explore ML using Tensorflow.
+The authors expect that Jupyter notebook is going to be tool of choice.  I've modified these examples to work from CLI or pycharm IDE.
+
+Nothing I do on this repository is a reflection or representation of my employer or any other institution other than
+myself. These are all hobby projects.

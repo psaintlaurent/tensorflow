@@ -1,0 +1,4 @@
+Embedding Dimensions
+
+Rule of thumb:
+ dimmensions ~=(possible_values)^(1/4)
