@@ -24,3 +24,4 @@ tensorflow-model-remediation
 tensorflow-model-analysis
 tensorflow-transform-canary
 tensorflow-hub
+Py_IsInitializing()
