@@ -88,4 +88,3 @@ for pred_dict, expec in zip(predictions, expected):
         'Prediction is "{}" ({:.1f}%), expected "{}"'.format(SPECIES[class_id], 100 * probability, expec)
     )
 
-
